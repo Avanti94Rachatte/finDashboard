@@ -7,7 +7,7 @@ import ProfilePhotoSelector from '../../components/Inputs/ProfilePhotoSelector'
 import axiosInstance from '../../utils/axiosInstance'
 import { API_PATHS,BASE_URL } from '../../utils/apiPaths'
 import { useContext } from 'react'
-import { UserContext } from '../../context/userContext'
+import { UserContext } from '../../context/UserContext'
 import uploadImage from '../../utils/uploadImage'
 
 
