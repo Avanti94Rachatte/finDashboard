@@ -1,0 +1,12 @@
+# Environment files
+.env
+frontend/finance-tracker/.env
+backend/.env
+
+# Node
+node_modules/
+frontend/finance-tracker/node_modules/
+backend/node_modules/
+
+# Build
+frontend/dist/
